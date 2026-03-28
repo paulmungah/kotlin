@@ -8,7 +8,7 @@ fun main(){
 
 
     // print out the output
-    println(number1)
+    println(number1
     println(number2)
     println(letter)
     println(paidLoan)
