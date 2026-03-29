@@ -41,4 +41,4 @@ fun main() {
 
 // create a function that is able to calculate the compound interest of a person
 
-// Research on inheritance in kotlin
+// Research on inheritance in kotlin 
